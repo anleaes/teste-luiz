@@ -1,2 +1,2 @@
-class Categoria:
-    pass
+class Categoria(self):
+    nome = self.nome
