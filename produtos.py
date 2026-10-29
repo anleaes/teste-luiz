@@ -1,2 +1,2 @@
-class Produtos:
-    pass
+class Produto(self):
+    descricao = self.descricao
