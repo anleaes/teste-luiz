@@ -1,2 +1,2 @@
 class Produtos:
-    pass
+    validade = self.validade
